@@ -148,9 +148,7 @@ DOMAIN,minfo.wps.cn
 DOMAIN,mobad.ijinshan.com
 DOMAIN,ups.ksmobile.net
 DOMAIN,ws.ksmobile.net
-# > Kuaishou
-DOMAIN-SUFFIX,e.kuaishou.com
-DOMAIN,js-ad.a.yximgs.com
+
 
 # (L)
 # > Le
