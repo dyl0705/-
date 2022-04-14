@@ -8192,7 +8192,6 @@ DOMAIN-SUFFIX,rqd.qq.com,REJECT
 DOMAIN-SUFFIX,adsmind.tc.qq.com,REJECT
 DOMAIN-SUFFIX,btrace.qq.com,REJECT
 DOMAIN-SUFFIX,mtrace.qq.com,REJECT
-DOMAIN-SUFFIX,oth.eve.mdt.qq.com,REJECT
 DOMAIN-SUFFIX,pgdt.gtimg.cn,REJECT
 DOMAIN-SUFFIX,pingma.qq.com,REJECT
 DOMAIN-SUFFIX,pingtcss.qq.com,REJECT
@@ -35981,6 +35980,7 @@ DOMAIN,life.html5.qq.com,REJECT
 DOMAIN,masdkv6.3g.qq.com,REJECT
 DOMAIN,mdt.qq.com,REJECT
 DOMAIN,omgid.qq.com,REJECT
+DOMAIN,otheve.beacon.qq.com,REJECT
 DOMAIN,p.buluo.qq.com,REJECT
 DOMAIN,pingtas.qq.com,REJECT
 DOMAIN,qappcenterv6.3g.qq.com,REJECT
