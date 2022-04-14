@@ -2789,7 +2789,6 @@ DOMAIN-SUFFIX,downloada.dewmobile.net,REJECT
 DOMAIN-SUFFIX,downloadb.dewmobile.net,REJECT
 DOMAIN-SUFFIX,downmobile.kugou.com,REJECT
 DOMAIN-SUFFIX,dp.559.cc,REJECT
-DOMAIN-SUFFIX,dp3.qq.com,REJECT
 DOMAIN-SUFFIX,dpm.demdex.net,REJECT
 DOMAIN-SUFFIX,dps.499.cn,REJECT
 DOMAIN-SUFFIX,dps.shouji56.com,REJECT
@@ -8604,7 +8603,6 @@ DOMAIN-SUFFIX,ls.l.qq.com,REJECT
 DOMAIN-SUFFIX,mapp.qzone.qq.com,REJECT
 DOMAIN-SUFFIX,mta.qq.com,REJECT
 DOMAIN-SUFFIX,openapi.guanjia.qq.com,REJECT
-DOMAIN-SUFFIX,p.l.qq.com,REJECT
 DOMAIN-SUFFIX,p.store.qq.com,REJECT
 DOMAIN-SUFFIX,p2.l.qq.com,REJECT
 DOMAIN-SUFFIX,p3.l.qq.com,REJECT
