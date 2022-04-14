@@ -2789,6 +2789,7 @@ DOMAIN-SUFFIX,downloada.dewmobile.net,REJECT
 DOMAIN-SUFFIX,downloadb.dewmobile.net,REJECT
 DOMAIN-SUFFIX,downmobile.kugou.com,REJECT
 DOMAIN-SUFFIX,dp.559.cc,REJECT
+DOMAIN-SUFFIX,dp3.qq.com,REJECT
 DOMAIN-SUFFIX,dpm.demdex.net,REJECT
 DOMAIN-SUFFIX,dps.499.cn,REJECT
 DOMAIN-SUFFIX,dps.shouji56.com,REJECT
@@ -4503,6 +4504,7 @@ DOMAIN-SUFFIX,l.adiers.com,REJECT
 DOMAIN-SUFFIX,l.betrad.com,REJECT
 DOMAIN-SUFFIX,l.minisplat.cn,REJECT
 DOMAIN-SUFFIX,l.mnjkw.cn,REJECT
+DOMAIN-SUFFIX,lives.l.qq.com,REJECT
 DOMAIN-SUFFIX,livep.l.qq.com,REJECT
 DOMAIN-SUFFIX,l.supfast.net,REJECT
 DOMAIN-SUFFIX,l.ujian.cc,REJECT
@@ -5524,6 +5526,7 @@ DOMAIN-SUFFIX,osc.uranus.sogou.com,REJECT
 DOMAIN-SUFFIX,osfota.cdn.aliyun.com,REJECT
 DOMAIN-SUFFIX,oss-asq-static.11222.cn,REJECT
 DOMAIN-SUFFIX,otf.msn.com,REJECT
+DOMAIN-SUFFIX,oth.str.mdt.qq.com,REJECT
 DOMAIN-SUFFIX,oth.update.mdt.qq.com,REJECT
 DOMAIN-SUFFIX,otheve.play.aiseet.atianqi.com,REJECT
 DOMAIN-SUFFIX,othstr.play.aiseet.atianqi.com,REJECT
@@ -8188,6 +8191,8 @@ DOMAIN-SUFFIX,gdt.qq.com,REJECT
 DOMAIN-SUFFIX,rqd.qq.com,REJECT
 DOMAIN-SUFFIX,adsmind.tc.qq.com,REJECT
 DOMAIN-SUFFIX,btrace.qq.com,REJECT
+DOMAIN-SUFFIX,mtrace.qq.com,REJECT
+DOMAIN-SUFFIX,oth.eve.mdt.qq.com,REJECT
 DOMAIN-SUFFIX,pgdt.gtimg.cn,REJECT
 DOMAIN-SUFFIX,pingma.qq.com,REJECT
 DOMAIN-SUFFIX,pingtcss.qq.com,REJECT
@@ -8347,6 +8352,7 @@ DOMAIN-SUFFIX,www.googleadservices.com,REJECT
 DOMAIN-SUFFIX,www.google-analytics.com,REJECT
 DOMAIN-SUFFIX,fusion.qq.com,REJECT
 DOMAIN-SUFFIX,ios.bugly.qq.com,REJECT
+DOMAIN-SUFFIX,wup.imtt.qq.com,REJECT
 DOMAIN-SUFFIX,tns.simba.taobao.com,REJECT
 DOMAIN-SUFFIX,click.mz.simba.taobao.com,REJECT
 DOMAIN-SUFFIX,click.simba.taobao.com,REJECT
@@ -8585,6 +8591,7 @@ DOMAIN-SUFFIX,fodder.tc.qq.com,REJECT
 DOMAIN-SUFFIX,fw.qq.com,REJECT
 DOMAIN-SUFFIX,hm.l.qq.com,REJECT
 DOMAIN-SUFFIX,httpring.qq.com,REJECT
+DOMAIN-SUFFIX,iacc.qq.com,REJECT
 DOMAIN-SUFFIX,if.mingxing.qq.com,REJECT
 DOMAIN-SUFFIX,imc.l.qq.com,REJECT
 DOMAIN-SUFFIX,img1.sj.qq.com,REJECT
@@ -8598,6 +8605,7 @@ DOMAIN-SUFFIX,ls.l.qq.com,REJECT
 DOMAIN-SUFFIX,mapp.qzone.qq.com,REJECT
 DOMAIN-SUFFIX,mta.qq.com,REJECT
 DOMAIN-SUFFIX,openapi.guanjia.qq.com,REJECT
+DOMAIN-SUFFIX,p.l.qq.com,REJECT
 DOMAIN-SUFFIX,p.store.qq.com,REJECT
 DOMAIN-SUFFIX,p2.l.qq.com,REJECT
 DOMAIN-SUFFIX,p3.l.qq.com,REJECT
@@ -35972,6 +35980,7 @@ DOMAIN,jsapi.html5.qq.com,REJECT
 DOMAIN,life.html5.qq.com,REJECT
 DOMAIN,masdkv6.3g.qq.com,REJECT
 DOMAIN,mdt.qq.com,REJECT
+DOMAIN,omgid.qq.com,REJECT
 DOMAIN,p.buluo.qq.com,REJECT
 DOMAIN,pingtas.qq.com,REJECT
 DOMAIN,qappcenterv6.3g.qq.com,REJECT
