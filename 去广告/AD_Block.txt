@@ -4503,7 +4503,6 @@ DOMAIN-SUFFIX,l.adiers.com,REJECT
 DOMAIN-SUFFIX,l.betrad.com,REJECT
 DOMAIN-SUFFIX,l.minisplat.cn,REJECT
 DOMAIN-SUFFIX,l.mnjkw.cn,REJECT
-DOMAIN-SUFFIX,lives.l.qq.com,REJECT
 DOMAIN-SUFFIX,livep.l.qq.com,REJECT
 DOMAIN-SUFFIX,l.supfast.net,REJECT
 DOMAIN-SUFFIX,l.ujian.cc,REJECT
@@ -8599,7 +8598,6 @@ DOMAIN-SUFFIX,ls.l.qq.com,REJECT
 DOMAIN-SUFFIX,mapp.qzone.qq.com,REJECT
 DOMAIN-SUFFIX,mta.qq.com,REJECT
 DOMAIN-SUFFIX,openapi.guanjia.qq.com,REJECT
-DOMAIN-SUFFIX,p.l.qq.com,REJECT
 DOMAIN-SUFFIX,p.store.qq.com,REJECT
 DOMAIN-SUFFIX,p2.l.qq.com,REJECT
 DOMAIN-SUFFIX,p3.l.qq.com,REJECT
@@ -35974,7 +35972,6 @@ DOMAIN,jsapi.html5.qq.com,REJECT
 DOMAIN,life.html5.qq.com,REJECT
 DOMAIN,masdkv6.3g.qq.com,REJECT
 DOMAIN,mdt.qq.com,REJECT
-DOMAIN,omgid.qq.com,REJECT
 DOMAIN,p.buluo.qq.com,REJECT
 DOMAIN,pingtas.qq.com,REJECT
 DOMAIN,qappcenterv6.3g.qq.com,REJECT
